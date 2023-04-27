@@ -2,7 +2,7 @@
 
 body {
   font-size: 14px;
-  font-family: 'Quicksand';
+  font-family: 'Quicksand', -apple-system;
 }
 .bpw-layout{
   height: 60%;
