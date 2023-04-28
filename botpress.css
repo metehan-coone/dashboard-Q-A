@@ -4,6 +4,11 @@ body {
   font-size: 14px;
   font-family: 'Quicksand', -apple-system;
 }
+#bp-web-widget{
+  bottom: 12px;
+  right: 12px;
+  width: 54px !important;
+}
 .bpw-layout{
   height: 60%;
   right: 10px;
