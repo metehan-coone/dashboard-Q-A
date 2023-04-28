@@ -1,0 +1,101 @@
+{
+    "Projects": [
+      {
+        "question": "After creating a project and entering the necessary information, what else do I need to do to start the project?",
+        "answer": "To get started, you should create some sample annotations to establish guidelines for the project. Then, upload the data to be annotated and click the settings icon on the right-hand side of the navbar to begin the project. That's all you need to do to get started.\\n\\nOR\\n\\nTo get started, follow these three steps:\\n\\n• Create sample annotations to establish guidelines for the project.\\n\\n• Upload the data to be annotated.\\n\\n• Click the settings icon on the right-hand side of the navbar to begin the project."
+      },
+      {
+        "question": "Can I add more annotation classes after creating the project?",
+        "answer": "If the project has already started and data has been distributed to annotators, you cannot add more annotation classes. However, if the project has not started yet, you can contact us to add the extra annotation classes to your project.\\n\\nSo, please make sure to finalize your annotation classes before starting the project to avoid any issues or delays."
+      },
+      {
+        "question": "Can I delete a project that's already in progress?",
+        "answer": "It's not possible to delete a project that's already in progress, because the data for that project has already been distributed to the annotators based on project priority. However, if you need to cancel an ongoing project, please contact us and we'll assist you with the process. Please note that canceling a project may result in additional charges and delays, depending on the stage of the project."
+      },
+      {
+        "question": "How can I manage users in my project?",
+        "answer": "To manage users in your project, click on the tracking user bar located next to the setting icons on the right-hand side of the navigation bar. From there, click on Manage Users to be redirected to the user management page. Here, you can set the role of each user by clicking on their role in the list. You can remove a user from the project by clicking on the more info icon in the row where their name appears, and then selecting Remove User from the dropdown menu. You can also search for a specific user using the search bar at the top of the page."
+      },
+      {
+        "question": "How can I add users to collaborate on my project?",
+        "answer": "To add users to your project for collaboration, click on the tracking user bar located next to the setting icons on the right-hand side of the navigation bar. From there, click on Manage Users to be redirected to the user management page. Here, you can invite users to collaborate with you on your project by sending them an email invitation. Once they accept the invitation, they will be able to access and work on the project with you."
+      },
+      {
+        "question": "How can I track the progress of my project?",
+        "answer": "To track the progress of your project, go to the tracking page where you'll find three charts. The Daily Annotation chart shows you the amount of annotations completed each day. The Class Distribution chart displays the weight distribution of the classes in your project. And the Time Comparison chart shows you how much time has been saved on this project compared to previous projects. These charts give you an overview of how your project is progressing and can help you identify any issues or delays."
+      },
+      {
+        "question": "Can I pause an ongoing project?",
+        "answer": "Yes, you can pause an ongoing project at any time by clicking the settings icon on the right-hand side of the navbar. Please note that pausing a project may result in a change of the expected delivery date."
+      },
+      {
+        "question": "Can I delete a project?",
+        "answer": "If the project has already started and data has been distributed to annotators, you cannot delete the project. However, if the project has not started yet, you can manage and delete it by clicking the settings icon on the right-hand side of the navbar.\\n\\nPlease note that once you delete a project, all associated data, annotations, and settings will also be permanently deleted."
+      }
+    ],
+    "Guideline": [
+      {
+        "question": "How can I create sample guideline annotations?",
+        "answer": "To create sample guideline annotations, we strongly recommend using our annotation tool's short tutorial before getting started.\\n\\nYou can access the tutorial by clicking on the question mark icon located on the right-hand side of the navbar. The tutorial will guide you through the process of using our annotation tool to create sample annotations, which can be used to establish guidelines for your project.\\n\\nTaking the time to watch the tutorial before starting will ensure that you have a clear understanding of the annotation process and can create comprehensive guidelines that will help ensure accurate and consistent results."
+      },
+      {
+        "question": "Can I make changes to the guidelines after the project has started?",
+        "answer": "Yes, you can make changes to the guidelines even if the project has started. However, any data that has already been distributed to annotators will continue to follow the previous version of the guidelines.\\n\\nTherefore, it's important to finalize your guidelines before starting the project and to communicate any changes clearly with your annotators to ensure consistent and accurate annotation."
+      },
+      {
+        "question": "How can I add extra data to create sample guidelines?",
+        "answer": "To add extra data to create sample guidelines, simply click the menu icon on the top left corner of the annotation tool.\\n\\nFrom there, you can select the option to add more data and choose the relevant files to include. This will allow you to create more comprehensive sample annotations and refine your guidelines for the project."
+      },
+      {
+        "question": "How can I check which classes I haven't created sample annotations for yet?",
+        "answer": "To check which classes are still unlabeled, you can use the filter icon located on the sidebar (which can be opened with the arrow icon if closed).\\n\\nClicking on the filter icon will display the current status of all labeled classes, including any that have not yet been annotated. This will help you keep track of which classes still need sample annotations and ensure that your guidelines are comprehensive and accurate."
+      }
+    ],
+    "Data Managements": [
+      {
+        "question": "Can I upload additional data after the project has started?",
+        "answer": "Yes, you can upload additional data to be annotated even after the project has started. The data will be distributed to the annotators according to the project's priority, but keep in mind that the expected delivery date may be affected by the added workload.\\n\\nTo upload additional data, simply go to the project page and click on the 'Data Management' option in the navigation menu. From there, you can select the option to upload new data and choose the relevant files to include."
+      },
+      {
+        "question": "Can I upload my data using Google Drive?",
+        "answer": "Currently, the option to upload data directly from Google Drive is not available. However, there are three third-party options available to upload your data: Azure Storage, Amazon S3, and Google Cloud Storage.\\n\\nWe are working to include a Google Drive upload option in the near future, and we appreciate your patience in the meantime. In the meantime, you can use one of the other available options to upload your data to the platform."
+      },
+      {
+        "question": "How can I export my completed data?",
+        "answer": "To export your completed data, follow these steps:\\n\\n• Go to the project page and click on 'Data Management' in the top navigation.\\n\\n• Click on the 'Export' button.\\n\\n• Choose one of the available formats (e.g., JSON, COCO, or Datumaro) to download your data to your local device.\\n\\n• Once you have selected your preferred format, click the 'Download' button again to initiate the download.\\n\\nYou can download the data in multiple formats, depending on your needs."
+      },
+      {
+        "question": "Can i download my data before the project is finish?",
+        "answer": "Yes, you can download your data at any time during the project, even if it is not yet finished. Simply go to the project page and click on 'Data Management' in the top navigation. From there, click on the 'Export' button and choose one of the available formats to download your data to your local device. You can also see how much of your data has been labeled already on the export page."
+      },
+      {
+        "question": "How can I upload my data after entering the project information?",
+        "answer": "To upload your data, follow these steps:\\n\\n• Go to the project page and click on 'Data Management' in the top navigation.\\n\\n• Click on the 'Import' button.\\n\\n• Choose one of the five available methods to upload your data. You can use multiple methods to upload data to the same project.\\n\\n• Once your data has been uploaded, it will be presented in the review page where you can see which data has been uploaded."
+      },
+      {
+        "question": "How do I upload my data in order to start the project?",
+        "answer": "To upload your data, follow these steps:\\n\\n• Go to the project page and click on 'Data Management' in the top navigation.\\n\\n• Click on the 'Import' button.\\n\\n• Choose one of the five available methods to upload your data. You can use multiple methods to upload data to the same project.\\n\\n• Once your data has been uploaded, it will be presented in the review page where you can see which data has been uploaded."
+      }
+    ],
+    "Plan": [
+      {
+        "question": "How can i upgrade my plan?",
+        "answer": "If you're a free user, you can upgrade your plan by clicking on the Plans option in the sidebar. This will take you to a page where you can compare different plans and select the one that best meets your needs. If you're already on a paid plan, you can also access the Plans page to upgrade to a higher package. Additionally, you can go to the Settings page to get more information about billing and plans and find the best plan to upgrade to."
+      },
+      {
+        "question": "Can I create a project without subscribing with any plan?",
+        "answer": "Yes, you can create one project for free without subscribing to any plan. However, the amount of annotation you can perform is limited to 100. Also, analysis of the data for better model training and tracking daily annotations is restricted for free users. To upgrade your plan and access these features, click on the Plans option in the sidebar. This will allow you to upgrade to a higher package that meets your annotation needs."
+      }
+    ],
+    "Review": [
+      {
+        "question": "How can I view the annotations on completed data in my project?",
+        "answer": "To view the annotations on completed labeled data for your project, go to the Review page from the top navigation menu. Then, click the filter icon in the top left corner to select the completed data. Once you've selected the completed data, click on the specific data you want to view. A sidebar will open on the right, displaying the annotations for each class. This allows you to review the quality and accuracy of the annotations on your completed data."
+      },
+      {
+        "question": "How can I view the completed data while my project is still in progress?",
+        "answer": "To view the completed labeled data for your project, navigate to the Review page from the top navigation menu. From there, you can filter the data based on the annotation class, completion status (completed, incomplete, or uncertain), and other criteria. This allows you to check the quality and progress of your project while it's still ongoing."
+      }
+    ]
+  }
+  
