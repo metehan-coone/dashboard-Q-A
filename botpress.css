@@ -4,7 +4,7 @@ body {
   font-size: 14px;
   font-family: 'Quicksand', -apple-system;
 }
-#bp-web-widget{
+.bp-widget-widget{
   bottom: 12px;
   right: 12px;
   width: 54px !important;
