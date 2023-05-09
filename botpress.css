@@ -4,48 +4,68 @@ body {
   font-size: 14px;
   font-family: 'Quicksand', -apple-system;
 }
-.bp-widget-widget{
+
+.bpw-widget-btn {
+  background-color: #147ad6;
+}
+
+.bpw-widget-btn:hover {
+  opacity: 0.8;
+}
+
+.bp-widget-widget {
   bottom: 12px;
   right: 12px;
   width: 54px !important;
 }
-.bpw-layout{
+
+.bpw-layout {
   height: 60%;
   right: 0px;
   bottom: 10px;
 }
+
 .bpw-chat-container {
   border: 0.5px solid #b6b6b6;
   border-radius: 8px;
   overflow: hidden;
 }
+
 .bpw-header-container {
   border-top: none;
 }
+
 .bpw-header-container {
   padding-left: 0.5rem;
 }
+
 #btn-delete-conversation {
   display: none;
 }
+
 #btn-download {
   display: none;
 }
+
 .bpw-widget-btn {
   border-radius: 50%;
   box-shadow: none;
 }
-.bpw-from-user .bpw-chat-bubble > div {
+
+.bpw-from-user .bpw-chat-bubble>div {
   border-radius: 12px;
   border-bottom-right-radius: 4px;
 }
-.bpw-from-bot .bpw-chat-bubble.bpw-bubble-text > div {
+
+.bpw-from-bot .bpw-chat-bubble.bpw-bubble-text>div {
   border-radius: 12px;
   border-bottom-left-radius: 4px;
 }
+
 .bpw-header-title {
   font-size: 16px;
 }
+
 .bpw-keyboard-quick_reply {
   background-color: transparent;
   padding: 0;
@@ -54,6 +74,7 @@ body {
   padding-left: 0.5rem;
   padding-bottom: 10px;
 }
+
 .bpw-keyboard-quick_reply button {
   padding: 6px 8px;
   background-color: var(--main-bg-color);
@@ -118,6 +139,6 @@ body {
   font-family: 'Roboto';
 }
 
-body > div:nth-child(3) {
+body>div:nth-child(3) {
   display: none;
 }
